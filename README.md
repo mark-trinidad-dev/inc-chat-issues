@@ -1,4 +1,4 @@
-# INC Chat Issue Tracker
+# INC Chat Support
 
 ## Purpose
 
